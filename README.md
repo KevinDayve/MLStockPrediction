@@ -1,0 +1,1 @@
+## End to End ML project to predict stock prices and recommend stocks based on max(profit).
